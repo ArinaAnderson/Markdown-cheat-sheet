@@ -78,7 +78,7 @@ OR
 | ------- | ------------- |
 | Gvenya  | gvenya@gvenya.ru |
 | Basya | basya@basya.pt |
-| Fenya | fenya@fneya.uk |
+| Fenya | fenya@fenya.uk |
 
 ## Task Lists:
 
