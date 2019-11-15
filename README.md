@@ -46,7 +46,7 @@ OR
 ---
 ## **Inline code block:**
 
-`<p>This is aragraph</p>`
+`<p>This is paragraph</p>`
 
 ---
 ## __Images:__
