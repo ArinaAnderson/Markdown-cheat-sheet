@@ -54,7 +54,7 @@ OR
 ![Mardown Logo](https://markdown-here.com/img/icon256.png)
 
 ---
-# Githib Markdown
+# Github Markdown
 
 ## Code blocks:
 ```bash
